@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8525" started-at="2018-11-14T16:31:16Z" finished-at="2018-11-14T16:31:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8525" started-at="2018-11-14T16:31:16Z" finished-at="2018-11-14T16:31:25Z">
+      <class name="LargeAndDeepDOM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:LargeAndDeepDOM@7823a2f9]" name="beforeTest" is-config="true" duration-ms="7285" started-at="2018-11-14T16:31:16Z" finished-at="2018-11-14T16:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="large()[pri:1, instance:LargeAndDeepDOM@7823a2f9]" name="large" duration-ms="437" started-at="2018-11-14T16:31:24Z" finished-at="2018-11-14T16:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- large -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:LargeAndDeepDOM@7823a2f9]" name="afterTest" is-config="true" duration-ms="782" started-at="2018-11-14T16:31:24Z" finished-at="2018-11-14T16:31:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- LargeAndDeepDOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
